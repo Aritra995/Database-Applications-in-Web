@@ -1,0 +1,13 @@
+.custom{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+body{
+    background-color: black;
+    opacity: 0.8;
+}
+h1{
+    font-family: 'Chilanka', cursive;
+}

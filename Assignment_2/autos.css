@@ -1,0 +1,25 @@
+body{
+    background-image: url('images/automobile.jpg');
+    background-size: cover;
+
+    margin: 0;
+    padding: 0;
+}
+.custom{
+    background-color : whitesmoke;
+    opacity: 0.6;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate();
+}
+.nocenter{
+    background-color : whitesmoke;
+    opacity: 0.6;
+}
+.noopa{
+    opacity: 0.3;
+}
+h1{
+    font-family: 'Rowdies', cursive;
+}
